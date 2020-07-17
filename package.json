@@ -1,0 +1,21 @@
+{
+  "name": "instant-scholar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "lint": "tslint --project tsconfig.json",
+    "build": "tsc",
+    "build:watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitMY/instant-scholar.git"
+  },
+  "author": "Amit Moryossef, Yanai Elazar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmitMY/instant-scholar/issues"
+  },
+  "homepage": "https://github.com/AmitMY/instant-scholar#readme"
+}
